@@ -21,7 +21,11 @@
 
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/section-title/section-title.css);
+<<<<<<< HEAD
 @import url(../blocks/section-subtitle/section-subtitle.css);
+=======
+@import url(../blocks/section-subtitle/section-subtitle.css); 
+>>>>>>> 74e090e (update)
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
